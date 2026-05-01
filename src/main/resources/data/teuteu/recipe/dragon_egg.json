@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C#",
+    "#D#",
+    "#C#"
+  ],
+  "key": {
+    "#": "minecraft:obsidian",
+    "C": "minecraft:crying_obsidian",
+    "D": "minecraft:dragon_head"
+  },
+  "result": {
+    "id": "minecraft:dragon_egg"
+  }
+}

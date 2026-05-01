@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="teuteu"
+version="1.0.0"
+displayName="TeuTeu"
+authors="Nicolas"
+description='''
+Ajoute des items et des crafts personnalisés.
+'''
+
+[[dependencies.teuteu]]
+modId="neoforge"
+type="required"
+versionRange="[26.1.2.30-beta,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.teuteu]]
+modId="minecraft"
+type="required"
+versionRange="[26.1.2,26.2)"
+ordering="NONE"
+side="BOTH"

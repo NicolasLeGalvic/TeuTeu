@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#/#",
+    "/o/",
+    "#/#"
+  ],
+  "key": {
+    "#": "minecraft:wither_skeleton_skull",
+    "/": "minecraft:bone",
+    "o": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:wither_skeleton_spawn_egg"
+  }
+}

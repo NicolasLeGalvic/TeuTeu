@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NDN",
+    "ISI",
+    " S "
+  ],
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "D": "minecraft:diamond_pickaxe",
+    "S": "minecraft:stick",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "teuteu:gimli_pickaxe",
+    "count": 1
+  }
+}

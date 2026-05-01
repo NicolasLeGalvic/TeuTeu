@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#F#",
+    "FoF",
+    "#F#"
+  ],
+  "key": {
+    "#": "minecraft:chicken",
+    "F": "minecraft:feather",
+    "o": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:chicken_spawn_egg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "WoW",
+    "#W#"
+  ],
+  "key": {
+    "#": "minecraft:mutton",
+    "W": "minecraft:white_wool",
+    "o": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:sheep_spawn_egg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WNW"
+  ],
+  "key": {
+    "W": "teuteu:elytra_wing",
+    "N": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}

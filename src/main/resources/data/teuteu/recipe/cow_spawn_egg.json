@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "LoL",
+    "#L#"
+  ],
+  "key": {
+    "#": "minecraft:beef",
+    "L": "minecraft:leather",
+    "o": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:cow_spawn_egg"
+  }
+}

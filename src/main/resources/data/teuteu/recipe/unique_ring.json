@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NNN",
+    "ITI",
+    "NNN"
+  ],
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "T": "minecraft:totem_of_undying",
+    "I": {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "minecraft:lingering_potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_invisibility"
+        }
+      },
+      "strict": false
+    }
+  },
+  "result": {
+    "id": "teuteu:unique_ring",
+    "count": 1
+  }
+}

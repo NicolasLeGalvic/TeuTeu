@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#A#",
+    "AuA",
+    "#A#"
+  ],
+  "key": {
+    "#": "minecraft:iron_block",
+    "A": "minecraft:amethyst_cluster",
+    "u": "minecraft:experience_bottle"
+  },
+  "result": {
+    "id": "minecraft:spawner"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "PoP",
+    "#P#"
+  ],
+  "key": {
+    "#": "minecraft:paper",
+    "P": "minecraft:phantom_membrane",
+    "o": "minecraft:diamond"
+  },
+  "result": {
+    "id": "teuteu:elytra_wing"
+  }
+}
